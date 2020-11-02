@@ -1,0 +1,157 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+    font-family: sans-serif
+}
+
+header {
+position: relative;
+margin: 20px auto;
+width: 1000px ;
+height: 120px;
+background: #444; 
+}
+
+#logo {
+position: absolute;
+top:30px;
+left:30px;
+bottom:0;
+right:0;
+width: 200px ;
+height: 68px;
+font-family: 'Kaushan Script', cursive;
+font-size: 20px;
+text-align: center;
+line-height: 58px;
+background: #ccc;
+}
+
+
+.redes { 
+position: absolute;
+width: 42px ;
+height: 42px;
+background: #ccc;
+border-radius:166%;
+text-align: center;
+line-height: 40px;
+color: white;
+}
+
+#icono1{
+top:42px;
+right: 120px;
+
+}
+
+#icono2{
+top:42px;
+right: 71px;
+
+}
+
+#icono3{
+top:42px;
+right: 19px;
+
+}
+
+
+
+nav {
+position: relative;
+margin:auto;
+width: 1000px ;
+height: 48px;
+
+}
+
+.botones {
+float: left;
+width: 196px;
+margin: 6px 2px;
+height: 48px;
+background: #ccc;
+
+}
+
+#top {
+position: relative;
+margin:20px auto;
+width: 1000px ;
+height: 192px;
+}
+
+#top ul{
+width: 1010px;
+height: 192px;
+}
+
+#top ul li {
+float: left;
+width: 326px;
+height: 192px;
+background: rgb(235, 228, 228);
+margin-right:10px;
+}
+
+section {
+position: relative;
+margin:auto;
+width: 1000px ;
+height: 453px;
+background:#aaa;
+}
+
+aside#izq{
+position: absolute;
+left:200px;
+top:0;
+width:600px;
+height:453px;
+background:#333;
+}
+article{
+position: absolute;
+left:200px;
+top:0;
+width:600px;
+height:453px;
+background:#555;
+}
+aside#der{
+position: absolute;
+right:0;
+top:0;
+width:200px;
+height:453px;
+background:#333;
+}
+footer {
+position: relative;
+margin:20px auto;
+width: 1000px ;
+height: 70px;
+background:#888;
+}
+
+
+.group{
+width: 200px;
+height: 200px;
+margin: 20px;
+}
+
+#c1{
+background: cyan;
+}
+
+#c2{
+background: blue;
+}
+
+#c3{
+background: yellow;
+}
