@@ -74,7 +74,11 @@ float: left;
 width: 196px;
 margin: 6px 2px;
 height: 48px;
-background: #ccc;
+background: rgb(46, 44, 177);
+font-family: 'Kaushan Script', cursive;
+font-size: 25px;
+text-align: center;
+line-height: 40px;
 
 }
 
