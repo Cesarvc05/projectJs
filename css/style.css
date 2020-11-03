@@ -87,6 +87,7 @@ position: relative;
 margin:20px auto;
 width: 1000px ;
 height: 192px;
+text-align: center;
 }
 
 #top ul{
@@ -98,10 +99,19 @@ height: 192px;
 float: left;
 width: 326px;
 height: 192px;
-background: rgb(235, 228, 228);
+
 margin-right:10px;
 }
 
+#top ul li img {
+    border-radius: 100%;
+    height: 100px;
+    }
+
+#top ul li h1 {
+    font-family: 'Kaushan Script', cursive;
+}
+    
 section {
 position: relative;
 margin:auto;
@@ -139,7 +149,10 @@ position: relative;
 margin:20px auto;
 width: 1000px ;
 height: 70px;
-background:#888;
+background: rgb(46, 44, 177);
+color: white;
+text-align: center;
+line-height: 70px;
 }
 
 
